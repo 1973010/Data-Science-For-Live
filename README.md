@@ -1,2 +1,2 @@
-# Data-Science-For-Live
-Learn Data Science with SKLearn
+# Learn Data Science with SKLearn
+# Keep your Principles, Update your Views Constantly, and Learn from your Trouble
